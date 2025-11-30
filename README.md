@@ -15,7 +15,7 @@ Must have Docker Installed
 Step 1. Prompt user to create a webpage
 
 Step 2. Based on the the input
-    If option 1, then create a new webpage.
+If option 1, then create a new webpage.
     If option 2, then continue working for one minute session.
     If optin 3, then remove all resources and start clean.
 
