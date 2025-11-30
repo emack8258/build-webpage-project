@@ -1,4 +1,4 @@
-# build-webpage-project
+🤖 # build-webpage-project 🤖
 
 "Welcome. I create this as a demonstration on how Python can be use with Docker
 to generate a webpage."
@@ -20,14 +20,14 @@ If option 2, then continue working for one minute session.
 If optin 3, then remove all resources and start clean.
 
 Only if option 1:
-- Creates a new html file.
-- Creates a new javascript file to generate web content.
-- Create a docker file.
-- Configure Docker YAML.
-- Create image document.
-- Create Docker container to host the new webpage
+- Creates a new html file. ✔️
+- Creates a new javascript file to generate web content. ✔️
+- Create a docker file. ✔️
+- Configure Docker YAML. ✔️
+- Create image document. ✔️
+- Create Docker container to host the new webpage ✔️
 
-Feel free to share, comment or review. 
+Feel free to share, comment or review. 👍
 
 # How to Run the script
 - Prepare:
