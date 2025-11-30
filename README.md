@@ -3,8 +3,8 @@
 "Welcome. I create this as a demonstration on how Python can be use with Docker
 to generate a webpage."
 
-The Python script was written to save effort creating containers to host a webpage and
-to save effort generating basic web content.
+The Python script was written to save effort creating containers to host a web app
+and save time generating basic web content.
 
 I hope this project is useful to start making web content at scale!
 
@@ -28,6 +28,22 @@ Only if option 1:
     Create Docker container to host the new webpage
 
 Feel free to share, comment or review. 
+
+# How to Run the script
+Prepare:
+    - Download the Python script & the Javascript file
+    - Ensure the Python script has execute permissions
+    - Install Docker if it is not already present 
+    - [Special Note] This is setup for Windows OS. I plan to include a Linux version in the future.
+
+Deploy:
+    - Run the script i.e. "./build_webpage.py", "& build_webpage.py", "Invoke-Command build_webpage.py"
+    - Follow the menu prompts
+    - Enter "1" to create a new webpage
+
+Post-Deploy:
+    - Enter "3" at the menu prompt 
+
 
 
 
