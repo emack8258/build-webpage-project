@@ -30,7 +30,7 @@ Only if option 1:
 Feel free to share, comment or review. 
 
 # How to Run the script
-Prepare:
+- Prepare:
     - Download the Python script & the Javascript file
     - Ensure the Python script has execute permissions
     - Install Docker if it is not already present 
