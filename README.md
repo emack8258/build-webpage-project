@@ -20,12 +20,12 @@ If option 2, then continue working for one minute session.
 If optin 3, then remove all resources and start clean.
 
 Only if option 1:
-    Creates a new html file.
-    Creates a new javascript file to generate web content.
-    Create a docker file.
-    Configure Docker YAML.
-    Create image document.
-    Create Docker container to host the new webpage
+- Creates a new html file.
+- Creates a new javascript file to generate web content.
+- Create a docker file.
+- Configure Docker YAML.
+- Create image document.
+- Create Docker container to host the new webpage
 
 Feel free to share, comment or review. 
 
@@ -36,12 +36,12 @@ Feel free to share, comment or review.
     - Install Docker if it is not already present 
     - [Special Note] This is setup for Windows OS. I plan to include a Linux version in the future.
 
-Deploy:
+- Deploy:
     - Run the script i.e. "./build_webpage.py", "& build_webpage.py", "Invoke-Command build_webpage.py"
     - Follow the menu prompts
     - Enter "1" to create a new webpage
 
-Post-Deploy:
+- Post-Deploy:
     - Enter "3" at the menu prompt 
 
 
